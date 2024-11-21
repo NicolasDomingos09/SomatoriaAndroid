@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SomaImpares</string>
+    <string name="num1">Digite o primeiro valor</string>
+    <string name="num2">Digite o segundo valor</string>
+    <string name="naoHa">Não há números ímpares entre os valores digitados</string>
+    <string name="result">Resultado da somatória: </string>
+    <string name="calcular">Somatória</string>
+    <string name="maior">Maior valor</string>
+    <string name="dif">Maior e menor</string>
+    <string name="menor">Menor valor</string>
+    <string name="limpar">Limpar</string>
+</resources>
